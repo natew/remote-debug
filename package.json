@@ -1,5 +1,5 @@
 {
-  "name": "@mcro/debug-apps",
+  "name": "@mcro/remote-debug",
   "main": "es6/index.js",
   "version": "1.5.1",
   "bin": {
